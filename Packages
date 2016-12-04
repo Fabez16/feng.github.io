@@ -1,0 +1,13 @@
+Package: com.feng.rounddock
+Version: 1.1.1-1
+Architecture: iphoneos-arm
+Maintainer: Feng <petrellesefabrizio@icloud.com>
+Filename: /RoundDock.deb
+Size: 12946
+MD5sum: 0e0923e31984d1e34bdda70ca83a8c41
+SHA1: 233397c7cd4f7ea622116105f52b3c753b23f711
+SHA256: 73acbe2124c9e548d3bd49bb9a13dd34842e4b1bfc44061b6e13f03aa226ff96
+Section: Tweaks
+Description: It works from iOS 7 to iOS 9.3.3, Configure the options from Settings.
+Author: Feng <petrellesefabrizio@icloud.com>
+Name: RoundDock

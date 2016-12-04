@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = rounddock;
+	cell = PSLinkCell;
+	detail = rounddockListController;
+	icon = rounddock.png;
+	isController = 1;
+	label = RoundDock;
+    };
+}
